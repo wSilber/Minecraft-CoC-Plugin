@@ -1,0 +1,38 @@
+name: Clans
+main: main.Main
+version: 1.4
+commands:
+  clan:
+    description: Opens up the clan help!
+  clan create:
+    description: Creates a clan!
+  clan delete:
+    description: Delets a clan!
+  clan get:
+    description: Gets the clan info!
+  clan help:
+    description: Gets the clan help!
+  clan invite:
+    description: Adds a member to the clan!
+  clan kick:
+    description: Removes a member from the clan!
+  clan promote:
+    description: Promotes a member of the clan!
+  clan demote:
+    description: Demotes a member of the clan!
+  clan setLeader:
+    description: Sets the leader of the clan!
+  stats:
+    description: Gives your stats!
+  stats name:
+    description: Gives the name of the player!
+  stats uuid:
+    description: Gives the uuid of the player.
+  stats money:
+    description: Gives the money of the player.
+  stats level:
+    description: Gives the level of the player.
+  stats clan:
+    description: Gives the name of the clan of the player.
+  stats rank:
+    description: Gives the rank of the player
